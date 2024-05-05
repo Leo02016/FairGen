@@ -41,10 +41,9 @@ The synthetic graph is stored in the directory:"./data/DBLP/DBLP_output_sequence
 
 
 ### Reference:
-@inproceedings{zhou2020data,
-  title={A Data-Driven Graph Generative Model for Temporal Interaction Networks},
-  author={Zhou, Dawei and Zheng, Lecheng and Han, Jiawei and He, Jingrui},
-  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={401--411},
-  year={2020}
+@article{zheng2023fairgen,
+  title={Fairgen: Towards fair graph generation},
+  author={Zheng, Lecheng and Zhou, Dawei and Tong, Hanghang and Xu, Jiejun and Zhu, Yada and He, Jingrui},
+  journal={arXiv preprint arXiv:2303.17743},
+  year={2023}
 }
