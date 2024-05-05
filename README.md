@@ -10,6 +10,7 @@ To mimic the dynamic systems, TagGen is equipped with a novel context generation
 ### Requirement:
 * python 3.7
 * pytorch 1.6 with gpu (cuda 10.2)
+* * scipy < 1.13 (tested on 1.12)
 
 ### Environment and Installation:
 1. conda env create -f environment.yml
