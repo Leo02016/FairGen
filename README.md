@@ -1,5 +1,5 @@
 # FairGen
-### Code for the paper: (FairGen: Towards Fair Graph Generation)[https://arxiv.org/html/2303.17743v3]
+### Code for the paper: [FairGen: Towards Fair Graph Generation](https://arxiv.org/html/2303.17743v3)
 
 # Introduction
 FairGen is an end-to-end deep generative model that is able to directly learn from the raw graph while preserving the fair graph structure of both majority and mintority group.  
