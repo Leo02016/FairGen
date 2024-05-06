@@ -2,7 +2,7 @@
 ### Code for the paper: [FairGen: Towards Fair Graph Generation](https://arxiv.org/html/2303.17743v3)
 
 # Introduction
-FairGen is an end-to-end deep generative model that can directly learn from the raw graph while preserving the fair graph structure of both the majority and minority groups. It jointly trains a label-informed graph generation module and a fair representation learning module by progressively learning the behaviors of the protected and unprotected groups, from the `easy' concepts to the `hard' ones. In addition, it incorporates a generic context sampling strategy for graph generative models, which is proven to be capable of fairly capturing the contextual information of each group with a high probability. 
+FairGen is an end-to-end deep generative model that can directly learn from the raw graph while preserving the fair graph structure of both the majority and minority groups. It jointly trains a label-informed graph generation module and a fair representation learning module by progressively learning the behaviors of the protected and unprotected groups, from the 'easy' concepts to the 'hard' ones. In addition, it incorporates a generic context sampling strategy for graph generative models, which is proven to be capable of fairly capturing the contextual information of each group with a high probability. 
 
 
 ### Requirement:
