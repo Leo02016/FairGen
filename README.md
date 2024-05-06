@@ -21,12 +21,15 @@ FairGen is an end-to-end deep generative model that can directly learn from the 
 2. conda activate fairgen
 
 ### Command
-1. unzip the dataset:
-unzip dataset.zip
+1. Unzip the dataset:
+```
+unzip data.zip
+```
 
 2. Training and evaluation:
+```
 python main.py -d FLICKR -b
-
+```
 
 ### Some important parameters:
 * -d: the name of the dataset
