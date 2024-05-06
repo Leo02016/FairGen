@@ -39,13 +39,18 @@ python main.py -d FLICKR -b
 
 ### Evaluation：
 The edge list of the synthetic graph is stored in the directory: "'./data/FLICKR/FLICKR_output_edgelist_0_2.txt'".
+
 The final results will be stored in the directory: "'./data/FLICKR/FLICKR_output_edgelist_0_2_metric.txt".
 
 
-### Reference:
+### Please cite our paper if you find it useful:
 @article{zheng2023fairgen,
+
   title={Fairgen: Towards fair graph generation},
+  
   author={Zheng, Lecheng and Zhou, Dawei and Tong, Hanghang and Xu, Jiejun and Zhu, Yada and He, Jingrui},
+  
   journal={arXiv preprint arXiv:2303.17743},
+  
   year={2023}
 }
