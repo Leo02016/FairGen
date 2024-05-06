@@ -31,7 +31,7 @@ unzip data.zip
 python main.py -d FLICKR -b
 ```
 
-### Some important parameters:
+### Some important flags:
 * -d: the name of the dataset
 * -g: the index of the gpu, 0 is the default value. If not using gpu, ignore this flag.
 * -b: the biased random walk or unbiased random walk. Biased random walk depends on the node proximity, while unbiased random walk is independent of node proximity. The default value is a biased random walk
