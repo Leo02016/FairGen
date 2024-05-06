@@ -6,7 +6,7 @@ FairGen is an end-to-end deep generative model that can directly learn from the 
 
 
 ### Requirement:
-* Scipy < 1.13 (tested on 1.12) due to the version of the Gensim package used by Deepwalk
+* Scipy < 1.13 (tested on 1.12)
 
 ### Tested Environment:
 * Python: 3.12
@@ -21,11 +21,11 @@ FairGen is an end-to-end deep generative model that can directly learn from the 
 2. conda activate fairgen
 
 ### Command
-1. Training:
-python graph_fairnet.py -d FLICKR -b
+1. unzip the dataset:
+unzip dataset.zip
 
-2. Testing and evaluation:
-python graph_fairnet.py -d FLICKR -b
+2. Training and evaluation:
+python main.py -d FLICKR -b
 
 
 ### Some important parameters:
