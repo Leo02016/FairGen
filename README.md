@@ -38,9 +38,9 @@ python main.py -d FLICKR -b
  with this flag.
 
 ### Evaluation：
-The edge list of the synthetic graph is stored in the directory: "'./data/FLICKR/FLICKR_output_edgelist_0_2.txt'".
+The edge list of the synthetic graph is stored in the directory: "'./data/FLICKR/FLICKR_output_edgelist_0_2.txt".
 
-The final results will be stored in the directory: "'./data/FLICKR/FLICKR_output_edgelist_0_2_metric.txt".
+The final results will be stored in the directory: "./data/FLICKR/FLICKR_output_edgelist_0_2_metric.txt".
 
 
 ### Please cite our paper if you find it useful:
